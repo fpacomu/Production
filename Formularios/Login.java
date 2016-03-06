@@ -3,7 +3,8 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Formularios;
+package Formularios; 
+
 
 import Metodos.MetodosLogin;
 import javax.swing.JOptionPane;
